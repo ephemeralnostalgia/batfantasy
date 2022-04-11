@@ -58,16 +58,11 @@ footer-text: 非著名蝙蝠侠梦女杨德嘉
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-
+disqus: batfantasy
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 
-gitalk:
-  clientID: 7c5b962849a0ce27b8bc
-  clientSecret: ac380339618323a1005882de6a4aaf309a55b632
-  repo: /batfantasy/
-  owner: ephemeralnostalgia
-  proxy: https://cors-anywhere.herokuapp.com
+
 
 # 输入Google Analytics web tracking code
 
