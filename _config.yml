@@ -8,7 +8,7 @@
 
 # 描述/签名
 name: BatFantasy
-description: 百特曼梦女原地绝赞上线中！
+description: 百特曼梦女园地绝赞上线中！
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -24,7 +24,7 @@ baseurl: /batfantasy
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://github.com/ephemeralnostalgia/batfantasy/blob/master/images/%E4%B8%8B%E8%BD%BD%20(1)_%E5%89%AF%E6%9C%AC.png?raw=true
+avatar: https://github.com/ephemeralnostalgia/batfantasy/blob/master/%E4%B8%8B%E8%BD%BD%20(1)_%E5%89%AF%E6%9C%AC.png?raw=true
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
