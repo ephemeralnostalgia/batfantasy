@@ -67,7 +67,7 @@ gitalk:
   clientSecret: ac380339618323a1005882de6a4aaf309a55b632
   repo: /batfantasy/
   owner: ephemeralnostalgia
-  proxy:https://cors-anywhere.herokuapp.com/https://github.com/login/oauth/access_token.
+  proxy:https://cors-anywhere.herokuapp.com
 
 # 输入Google Analytics web tracking code
 
